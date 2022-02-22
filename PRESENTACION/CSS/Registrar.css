@@ -1,0 +1,41 @@
+﻿body {
+    background-image: url(../ImagenesFondos/FondoRegistrar.jpg);
+    display: block;
+    background-size: cover;
+}
+
+.logoCine {
+    Height: 150px;
+    Width: 160px;
+}
+
+.FormularioRegistrar {
+    background-color: white;
+    height: 580px;
+    width: 430px;
+    margin-left: 650px;
+    margin-top: -510px;
+    padding-top: 15px;
+    padding-left: 100px;
+}
+
+.FotoForm {
+    height: 510px;
+    width: 420px;
+    margin-left: 330px;
+    margin-top: -110px;
+}
+
+.Calendario {
+    height: 240px;
+    width: 260px;
+    margin-top: -400px;
+    margin-left: 1085px;
+}
+
+.Alerta {
+    height: 60px;
+    width: 390px;
+    margin-top: 116px;
+    margin-left: 745px;
+}

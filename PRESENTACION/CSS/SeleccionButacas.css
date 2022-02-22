@@ -1,0 +1,51 @@
+﻿body {
+    background-image:url(../ImagenesFondos/FondoPrincipal.jpg);
+}
+
+.BotonesPrincipales {
+    Height: 150px;
+    Width: 260px;
+}
+
+.usuarioConectado {
+    Height: 150px;
+    Width: 160px;
+    margin-left: 1150px;
+    margin-top: -130px;
+}
+
+.Pantalla{
+    width:530px;
+    height:160px;
+    margin-left:450px;
+    margin-top:-120px;
+}
+
+.Butacas {
+    height: 650px;
+    width: 555px;
+    margin-left: 450px;
+    margin-top: -200px;
+}
+
+.ResumenFuncion{
+    background-color:cornflowerblue;
+    height:215px;
+    width:285px;
+    margin-left:10px;
+    padding-left:13px;
+    padding-top:5px;
+    border-style:solid;
+    border-color:white;
+    border-radius:30px;
+}
+
+.BotonComprar{
+    height:50px;
+    width:100px;
+    padding-left:5px;
+    padding-top:5px;
+    margin-left:15px;
+    margin-top:10px;
+}
+

@@ -1,0 +1,110 @@
+﻿body {
+    background-color: white;
+    background-image: url("ImagenesFondos/FondoPrincipal.jpg");
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center center;
+}
+
+.logoCine {
+    Height: 150px;
+    Width: 160px;
+}
+
+.usuarioConectado {
+    Height: 150px;
+    Width: 160px;
+    margin-left: 1200px;
+    margin-top: -130px;
+}
+
+.btnReservas{
+    height:100px;
+    margin-left:1050px;
+    margin-top:-100px;
+}
+
+.Peliculas {
+    margin-left: 450px;
+    margin-top: -140px;
+}
+
+#btnLupa {
+    Height: 50px;
+}
+#btnUsuario {
+    Height:50px;
+}
+#btnConectar {
+    background-color: #CCFFFF;
+    border-bottom-color: Gray;
+    border-bottom-style: Solid;
+    font-size: larger;
+    Height: 40px;
+    Width: 90px;
+    margin-left: 35px;
+    font-family: Arial Rounded MT Bold;
+}
+#btnRegistrar {
+    background-color: #CCFFFF;
+    border-bottom-color: Gray;
+    border-bottom-style: Solid;
+    font-size: medium;
+    Height: 40px;
+    Width: 145px;
+    margin-left: 300px;
+    font-family: Arial Rounded MT Bold;
+}
+#DivLogPrinc{
+    background-color: lightblue;
+    margin:-7px;
+}
+#divLupa {
+    width:5%;
+    float:right;
+    height:1px;
+}
+#divUsuario {
+    width: 5%;
+    float: right;
+    height: 10px
+}
+#divBusqueda {
+    background-color: lightblue;
+    width: 15%;
+    float: right;
+    height: 5px;
+    margin-top: 16px;
+}
+
+#pIniSesion {
+    font-family: Impact;
+    font-size: xx-large;
+    text-decoration: underline;
+    font-weight: 100;
+    color: #AFB1B1;
+    margin-top: 40px;
+    margin-left: 350px;
+    float: left;
+}
+#pCrearUsu {
+    font-family: Impact;
+    font-size: xx-large;
+    text-decoration: underline;
+    font-weight: 100;
+    color: #AFB1B1;
+    margin-top: 40px;
+    margin-left: 250px;
+    float: left;
+}
+
+#LblDNI {
+    font-family: Impact;
+    color: #AFB1B1;
+    font-size: x-large;
+}
+#lblContraseña {
+    font-family: Impact;
+    color: #AFB1B1;
+    font-size: x-large;
+}

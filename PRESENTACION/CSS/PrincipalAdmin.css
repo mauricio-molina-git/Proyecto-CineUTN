@@ -1,0 +1,34 @@
+﻿body {
+background-image:url(../ImagenesFondos/FondoReportes.png);
+
+}
+
+.Usuario {
+    margin-left: 1150px;
+    margin-top: 15px;
+}
+
+.Titulo {
+    width: 450px;
+    margin-left: 595px;
+    margin-top: -60px;
+    padding-bottom: 10px;
+}
+
+.MenuAgregar{
+    height:310px;
+    width:200px;
+    margin-top:40px;
+    margin-left:540px;
+    padding-left:10px;
+    padding-top:10px;
+}
+
+.MenuModificar {
+    height: 310px;
+    width: 200px;
+    margin-top: -309px;
+    margin-left: 740px;
+    padding-left: 10px;
+    padding-top: 10px;
+}

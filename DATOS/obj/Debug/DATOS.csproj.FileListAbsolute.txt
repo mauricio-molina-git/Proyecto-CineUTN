@@ -1,0 +1,266 @@
+C:\Users\Flia Molina\Documents\Mauricio TSP\Proyecto\LISTO PARA MODIFICAR LISTVIEW\Tp_ProgIII\CineUTN\DATOS\bin\Debug\DATOS.dll
+C:\Users\Flia Molina\Documents\Mauricio TSP\Proyecto\LISTO PARA MODIFICAR LISTVIEW\Tp_ProgIII\CineUTN\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Flia Molina\Documents\Mauricio TSP\Proyecto\LISTO PARA MODIFICAR LISTVIEW\Tp_ProgIII\CineUTN\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Flia Molina\Documents\Mauricio TSP\Proyecto\LISTO PARA MODIFICAR LISTVIEW\Tp_ProgIII\CineUTN\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Flia Molina\Documents\Mauricio TSP\Proyecto\LISTO PARA MODIFICAR LISTVIEW\Tp_ProgIII\CineUTN\DATOS\obj\Debug\DATOS.dll
+C:\Users\Flia Molina\Documents\Mauricio TSP\Proyecto\LISTO PARA MODIFICAR LISTVIEW\Tp_ProgIII\CineUTN\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Flia Molina\Documents\Mauricio TSP\Proyecto\LISTO PARA MODIFICAR LISTVIEW\Tp_ProgIII\CineUTN\DATOS\bin\Debug\ENTIDAD.dll
+C:\Users\Flia Molina\Documents\Mauricio TSP\Proyecto\LISTO PARA MODIFICAR LISTVIEW\Tp_ProgIII\CineUTN\DATOS\bin\Debug\ENTIDAD.pdb
+C:\Users\Flia Molina\Documents\Mauricio TSP\Proyecto\LISTO PARA MODIFICAR LISTVIEW\Tp_ProgIII\CineUTN\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\ProyectoCine\ProyectoCine\Tp_ProgIII\CineUTN\DATOS\bin\Debug\DATOS.dll
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\ProyectoCine\ProyectoCine\Tp_ProgIII\CineUTN\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\ProyectoCine\ProyectoCine\Tp_ProgIII\CineUTN\DATOS\bin\Debug\ENTIDAD.dll
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\ProyectoCine\ProyectoCine\Tp_ProgIII\CineUTN\DATOS\bin\Debug\ENTIDAD.pdb
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\ProyectoCine\ProyectoCine\Tp_ProgIII\CineUTN\DATOS\obj\Debug\DATOS.csprojResolveAssemblyReference.cache
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\ProyectoCine\ProyectoCine\Tp_ProgIII\CineUTN\DATOS\obj\Debug\DATOS.dll
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\ProyectoCine\ProyectoCine\Tp_ProgIII\CineUTN\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Flia Molina\Desktop\Cine24-7\DATOS\bin\Debug\DATOS.dll
+C:\Users\Flia Molina\Desktop\Cine24-7\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Flia Molina\Desktop\Cine24-7\DATOS\bin\Debug\ENTIDAD.dll
+C:\Users\Flia Molina\Desktop\Cine24-7\DATOS\bin\Debug\ENTIDAD.pdb
+C:\Users\Flia Molina\Desktop\Cine24-7\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Flia Molina\Desktop\Cine24-7\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Flia Molina\Desktop\Cine24-7\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Flia Molina\Desktop\Cine24-7\DATOS\obj\Debug\DATOS.dll
+C:\Users\Flia Molina\Desktop\Cine24-7\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Flia Molina\Desktop\26\Cine25-7 - copia\DATOS\bin\Debug\DATOS.dll
+C:\Users\Flia Molina\Desktop\26\Cine25-7 - copia\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Flia Molina\Desktop\26\Cine25-7 - copia\DATOS\bin\Debug\ENTIDAD.dll
+C:\Users\Flia Molina\Desktop\26\Cine25-7 - copia\DATOS\bin\Debug\ENTIDAD.pdb
+C:\Users\Flia Molina\Desktop\26\Cine25-7 - copia\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Flia Molina\Desktop\26\Cine25-7 - copia\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Flia Molina\Desktop\26\Cine25-7 - copia\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Flia Molina\Desktop\26\Cine25-7 - copia\DATOS\obj\Debug\DATOS.dll
+C:\Users\Flia Molina\Desktop\26\Cine25-7 - copia\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Cine25-7 - copia\DATOS\bin\Debug\DATOS.dll
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Cine25-7 - copia\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Cine25-7 - copia\DATOS\bin\Debug\ENTIDAD.dll
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Cine25-7 - copia\DATOS\bin\Debug\ENTIDAD.pdb
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Cine25-7 - copia\DATOS\obj\Debug\DATOS.csprojResolveAssemblyReference.cache
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Cine25-7 - copia\DATOS\obj\Debug\DATOS.dll
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Cine25-7 - copia\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Flia Molina\Desktop\Proyecto  cine 26\DATOS\bin\Debug\DATOS.dll
+C:\Users\Flia Molina\Desktop\Proyecto  cine 26\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Flia Molina\Desktop\Proyecto  cine 26\DATOS\bin\Debug\ENTIDAD.dll
+C:\Users\Flia Molina\Desktop\Proyecto  cine 26\DATOS\bin\Debug\ENTIDAD.pdb
+C:\Users\Flia Molina\Desktop\Proyecto  cine 26\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Flia Molina\Desktop\Proyecto  cine 26\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Flia Molina\Desktop\Proyecto  cine 26\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Flia Molina\Desktop\Proyecto  cine 26\DATOS\obj\Debug\DATOS.dll
+C:\Users\Flia Molina\Desktop\Proyecto  cine 26\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Flia Molina\Desktop\ProyectoCine 27-07_parte3\DATOS\bin\Debug\DATOS.dll
+C:\Users\Flia Molina\Desktop\ProyectoCine 27-07_parte3\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Flia Molina\Desktop\ProyectoCine 27-07_parte3\DATOS\bin\Debug\ENTIDAD.dll
+C:\Users\Flia Molina\Desktop\ProyectoCine 27-07_parte3\DATOS\bin\Debug\ENTIDAD.pdb
+C:\Users\Flia Molina\Desktop\ProyectoCine 27-07_parte3\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Flia Molina\Desktop\ProyectoCine 27-07_parte3\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Flia Molina\Desktop\ProyectoCine 27-07_parte3\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Flia Molina\Desktop\ProyectoCine 27-07_parte3\DATOS\obj\Debug\DATOS.dll
+C:\Users\Flia Molina\Desktop\ProyectoCine 27-07_parte3\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Flia Molina\Desktop\Proyecto ultima version(27-07)(23 hs)\DATOS\bin\Debug\DATOS.dll
+C:\Users\Flia Molina\Desktop\Proyecto ultima version(27-07)(23 hs)\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Flia Molina\Desktop\Proyecto ultima version(27-07)(23 hs)\DATOS\bin\Debug\ENTIDAD.dll
+C:\Users\Flia Molina\Desktop\Proyecto ultima version(27-07)(23 hs)\DATOS\bin\Debug\ENTIDAD.pdb
+C:\Users\Flia Molina\Desktop\Proyecto ultima version(27-07)(23 hs)\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Flia Molina\Desktop\Proyecto ultima version(27-07)(23 hs)\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Flia Molina\Desktop\Proyecto ultima version(27-07)(23 hs)\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Flia Molina\Desktop\Proyecto ultima version(27-07)(23 hs)\DATOS\obj\Debug\DATOS.dll
+C:\Users\Flia Molina\Desktop\Proyecto ultima version(27-07)(23 hs)\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto CineUtn- Alderete, Molina\DATOS\bin\Debug\DATOS.dll
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto CineUtn- Alderete, Molina\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto CineUtn- Alderete, Molina\DATOS\bin\Debug\ENTIDAD.dll
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto CineUtn- Alderete, Molina\DATOS\bin\Debug\ENTIDAD.pdb
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto CineUtn- Alderete, Molina\DATOS\obj\Debug\DATOS.csprojResolveAssemblyReference.cache
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto CineUtn- Alderete, Molina\DATOS\obj\Debug\DATOS.dll
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto CineUtn- Alderete, Molina\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Flia Molina\Desktop\Proyecto Prog 3\DATOS\bin\Debug\DATOS.dll
+C:\Users\Flia Molina\Desktop\Proyecto Prog 3\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Flia Molina\Desktop\Proyecto Prog 3\DATOS\bin\Debug\ENTIDAD.dll
+C:\Users\Flia Molina\Desktop\Proyecto Prog 3\DATOS\bin\Debug\ENTIDAD.pdb
+C:\Users\Flia Molina\Desktop\Proyecto Prog 3\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Flia Molina\Desktop\Proyecto Prog 3\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Flia Molina\Desktop\Proyecto Prog 3\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Flia Molina\Desktop\Proyecto Prog 3\DATOS\obj\Debug\DATOS.dll
+C:\Users\Flia Molina\Desktop\Proyecto Prog 3\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Horacio Bono\Desktop\Proyecto Prog 3\DATOS\bin\Debug\DATOS.dll
+C:\Users\Horacio Bono\Desktop\Proyecto Prog 3\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Horacio Bono\Desktop\Proyecto Prog 3\DATOS\bin\Debug\ENTIDAD.dll
+C:\Users\Horacio Bono\Desktop\Proyecto Prog 3\DATOS\bin\Debug\ENTIDAD.pdb
+C:\Users\Horacio Bono\Desktop\Proyecto Prog 3\DATOS\obj\Debug\DATOS.csprojResolveAssemblyReference.cache
+C:\Users\Horacio Bono\Desktop\Proyecto Prog 3\DATOS\obj\Debug\DATOS.dll
+C:\Users\Horacio Bono\Desktop\Proyecto Prog 3\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Flia Molina\Desktop\UltActua\DATOS\bin\Debug\DATOS.dll
+C:\Users\Flia Molina\Desktop\UltActua\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Flia Molina\Desktop\UltActua\DATOS\bin\Debug\ENTIDAD.dll
+C:\Users\Flia Molina\Desktop\UltActua\DATOS\bin\Debug\ENTIDAD.pdb
+C:\Users\Flia Molina\Desktop\UltActua\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Flia Molina\Desktop\UltActua\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Flia Molina\Desktop\UltActua\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Flia Molina\Desktop\UltActua\DATOS\obj\Debug\DATOS.dll
+C:\Users\Flia Molina\Desktop\UltActua\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Flia Molina\Desktop\MartesUlt\DATOS\bin\Debug\DATOS.dll
+C:\Users\Flia Molina\Desktop\MartesUlt\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Flia Molina\Desktop\MartesUlt\DATOS\bin\Debug\ENTIDAD.dll
+C:\Users\Flia Molina\Desktop\MartesUlt\DATOS\bin\Debug\ENTIDAD.pdb
+C:\Users\Flia Molina\Desktop\MartesUlt\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Flia Molina\Desktop\MartesUlt\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Flia Molina\Desktop\MartesUlt\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Flia Molina\Desktop\MartesUlt\DATOS\obj\Debug\DATOS.dll
+C:\Users\Flia Molina\Desktop\MartesUlt\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Horacio Bono\Desktop\Proyecto miercoles 20-11\DATOS\bin\Debug\DATOS.dll
+C:\Users\Horacio Bono\Desktop\Proyecto miercoles 20-11\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Horacio Bono\Desktop\Proyecto miercoles 20-11\DATOS\bin\Debug\ENTIDAD.dll
+C:\Users\Horacio Bono\Desktop\Proyecto miercoles 20-11\DATOS\bin\Debug\ENTIDAD.pdb
+C:\Users\Horacio Bono\Desktop\Proyecto miercoles 20-11\DATOS\obj\Debug\DATOS.csprojResolveAssemblyReference.cache
+C:\Users\Horacio Bono\Desktop\Proyecto miercoles 20-11\DATOS\obj\Debug\DATOS.dll
+C:\Users\Horacio Bono\Desktop\Proyecto miercoles 20-11\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Flia Molina\Desktop\Proyecto final\DATOS\bin\Debug\DATOS.dll
+C:\Users\Flia Molina\Desktop\Proyecto final\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Flia Molina\Desktop\Proyecto final\DATOS\bin\Debug\ENTIDAD.dll
+C:\Users\Flia Molina\Desktop\Proyecto final\DATOS\bin\Debug\ENTIDAD.pdb
+C:\Users\Flia Molina\Desktop\Proyecto final\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Flia Molina\Desktop\Proyecto final\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Flia Molina\Desktop\Proyecto final\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Flia Molina\Desktop\Proyecto final\DATOS\obj\Debug\DATOS.dll
+C:\Users\Flia Molina\Desktop\Proyecto final\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto final\DATOS\bin\Debug\DATOS.dll
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto final\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto final\DATOS\bin\Debug\ENTIDAD.dll
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto final\DATOS\bin\Debug\ENTIDAD.pdb
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto final\DATOS\obj\Debug\DATOS.csprojResolveAssemblyReference.cache
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto final\DATOS\obj\Debug\DATOS.dll
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto final\DATOS\obj\Debug\DATOS.pdb
+C:\Users\mmoli\Documents\ProyectoProg3\DATOS\bin\Debug\DATOS.dll
+C:\Users\mmoli\Documents\ProyectoProg3\DATOS\bin\Debug\DATOS.pdb
+C:\Users\mmoli\Documents\ProyectoProg3\DATOS\bin\Debug\ENTIDAD.dll
+C:\Users\mmoli\Documents\ProyectoProg3\DATOS\bin\Debug\ENTIDAD.pdb
+C:\Users\mmoli\Documents\ProyectoProg3\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\mmoli\Documents\ProyectoProg3\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\mmoli\Documents\ProyectoProg3\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\mmoli\Documents\ProyectoProg3\DATOS\obj\Debug\DATOS.dll
+C:\Users\mmoli\Documents\ProyectoProg3\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\ProyectoProg3\DATOS\bin\Debug\DATOS.dll
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\ProyectoProg3\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\ProyectoProg3\DATOS\bin\Debug\ENTIDAD.dll
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\ProyectoProg3\DATOS\bin\Debug\ENTIDAD.pdb
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\ProyectoProg3\DATOS\obj\Debug\DATOS.csprojResolveAssemblyReference.cache
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\ProyectoProg3\DATOS\obj\Debug\DATOS.dll
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\ProyectoProg3\DATOS\obj\Debug\DATOS.pdb
+C:\Users\mmoli\Desktop\Proyecto 9-9\DATOS\bin\Debug\DATOS.dll
+C:\Users\mmoli\Desktop\Proyecto 9-9\DATOS\bin\Debug\DATOS.pdb
+C:\Users\mmoli\Desktop\Proyecto 9-9\DATOS\bin\Debug\ENTIDAD.dll
+C:\Users\mmoli\Desktop\Proyecto 9-9\DATOS\bin\Debug\ENTIDAD.pdb
+C:\Users\mmoli\Desktop\Proyecto 9-9\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\mmoli\Desktop\Proyecto 9-9\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\mmoli\Desktop\Proyecto 9-9\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\mmoli\Desktop\Proyecto 9-9\DATOS\obj\Debug\DATOS.dll
+C:\Users\mmoli\Desktop\Proyecto 9-9\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\Proyecto Prog III\DATOS\bin\Debug\DATOS.dll
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\Proyecto Prog III\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\Proyecto Prog III\DATOS\bin\Debug\ENTIDAD.dll
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\Proyecto Prog III\DATOS\bin\Debug\ENTIDAD.pdb
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\Proyecto Prog III\DATOS\obj\Debug\DATOS.csprojResolveAssemblyReference.cache
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\Proyecto Prog III\DATOS\obj\Debug\DATOS.dll
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\Proyecto Prog III\DATOS\obj\Debug\DATOS.pdb
+C:\Users\mmoli\Desktop\Proyecto 14-09\DATOS\bin\Debug\DATOS.dll
+C:\Users\mmoli\Desktop\Proyecto 14-09\DATOS\bin\Debug\DATOS.pdb
+C:\Users\mmoli\Desktop\Proyecto 14-09\DATOS\bin\Debug\ENTIDAD.dll
+C:\Users\mmoli\Desktop\Proyecto 14-09\DATOS\bin\Debug\ENTIDAD.pdb
+C:\Users\mmoli\Desktop\Proyecto 14-09\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\mmoli\Desktop\Proyecto 14-09\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\mmoli\Desktop\Proyecto 14-09\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\mmoli\Desktop\Proyecto 14-09\DATOS\obj\Debug\DATOS.dll
+C:\Users\mmoli\Desktop\Proyecto 14-09\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\Proyecto 14-09\DATOS\bin\Debug\DATOS.dll
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\Proyecto 14-09\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\Proyecto 14-09\DATOS\bin\Debug\ENTIDAD.dll
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\Proyecto 14-09\DATOS\bin\Debug\ENTIDAD.pdb
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\Proyecto 14-09\DATOS\obj\Debug\DATOS.csprojResolveAssemblyReference.cache
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\Proyecto 14-09\DATOS\obj\Debug\DATOS.dll
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\Proyecto 14-09\DATOS\obj\Debug\DATOS.pdb
+C:\Users\mmoli\Desktop\Nueva carpeta\DATOS\bin\Debug\DATOS.dll
+C:\Users\mmoli\Desktop\Nueva carpeta\DATOS\bin\Debug\DATOS.pdb
+C:\Users\mmoli\Desktop\Nueva carpeta\DATOS\bin\Debug\ENTIDAD.dll
+C:\Users\mmoli\Desktop\Nueva carpeta\DATOS\bin\Debug\ENTIDAD.pdb
+C:\Users\mmoli\Desktop\Nueva carpeta\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\mmoli\Desktop\Nueva carpeta\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\mmoli\Desktop\Nueva carpeta\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\mmoli\Desktop\Nueva carpeta\DATOS\obj\Debug\DATOS.dll
+C:\Users\mmoli\Desktop\Nueva carpeta\DATOS\obj\Debug\DATOS.pdb
+C:\Users\mmoli\Documents\Proyecto Prog 3 20-09\DATOS\bin\Debug\DATOS.dll
+C:\Users\mmoli\Documents\Proyecto Prog 3 20-09\DATOS\bin\Debug\DATOS.pdb
+C:\Users\mmoli\Documents\Proyecto Prog 3 20-09\DATOS\bin\Debug\ENTIDAD.dll
+C:\Users\mmoli\Documents\Proyecto Prog 3 20-09\DATOS\bin\Debug\ENTIDAD.pdb
+C:\Users\mmoli\Documents\Proyecto Prog 3 20-09\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\mmoli\Documents\Proyecto Prog 3 20-09\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\mmoli\Documents\Proyecto Prog 3 20-09\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\mmoli\Documents\Proyecto Prog 3 20-09\DATOS\obj\Debug\DATOS.dll
+C:\Users\mmoli\Documents\Proyecto Prog 3 20-09\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\ProyectoActualizado24_9\DATOS\bin\Debug\DATOS.dll
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\ProyectoActualizado24_9\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\ProyectoActualizado24_9\DATOS\bin\Debug\ENTIDAD.dll
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\ProyectoActualizado24_9\DATOS\bin\Debug\ENTIDAD.pdb
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\ProyectoActualizado24_9\DATOS\obj\Debug\DATOS.csprojResolveAssemblyReference.cache
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\ProyectoActualizado24_9\DATOS\obj\Debug\DATOS.dll
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\ProyectoActualizado24_9\DATOS\obj\Debug\DATOS.pdb
+C:\Users\mmoli\Desktop\ProyectoProg3_ultimo\DATOS\bin\Debug\DATOS.dll
+C:\Users\mmoli\Desktop\ProyectoProg3_ultimo\DATOS\bin\Debug\DATOS.pdb
+C:\Users\mmoli\Desktop\ProyectoProg3_ultimo\DATOS\bin\Debug\ENTIDAD.dll
+C:\Users\mmoli\Desktop\ProyectoProg3_ultimo\DATOS\bin\Debug\ENTIDAD.pdb
+C:\Users\mmoli\Desktop\ProyectoProg3_ultimo\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\mmoli\Desktop\ProyectoProg3_ultimo\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\mmoli\Desktop\ProyectoProg3_ultimo\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\mmoli\Desktop\ProyectoProg3_ultimo\DATOS\obj\Debug\DATOS.dll
+C:\Users\mmoli\Desktop\ProyectoProg3_ultimo\DATOS\obj\Debug\DATOS.pdb
+C:\Users\mmoli\Documents\Proyecto Prog 3\Proyecto29_9\DATOS\bin\Debug\DATOS.dll
+C:\Users\mmoli\Documents\Proyecto Prog 3\Proyecto29_9\DATOS\bin\Debug\DATOS.pdb
+C:\Users\mmoli\Documents\Proyecto Prog 3\Proyecto29_9\DATOS\bin\Debug\ENTIDAD.dll
+C:\Users\mmoli\Documents\Proyecto Prog 3\Proyecto29_9\DATOS\bin\Debug\ENTIDAD.pdb
+C:\Users\mmoli\Documents\Proyecto Prog 3\Proyecto29_9\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\mmoli\Documents\Proyecto Prog 3\Proyecto29_9\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\mmoli\Documents\Proyecto Prog 3\Proyecto29_9\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\mmoli\Documents\Proyecto Prog 3\Proyecto29_9\DATOS\obj\Debug\DATOS.dll
+C:\Users\mmoli\Documents\Proyecto Prog 3\Proyecto29_9\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\Proyecto_2_10\DATOS\bin\Debug\DATOS.dll
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\Proyecto_2_10\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\Proyecto_2_10\DATOS\bin\Debug\ENTIDAD.dll
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\Proyecto_2_10\DATOS\bin\Debug\ENTIDAD.pdb
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\Proyecto_2_10\DATOS\obj\Debug\DATOS.csprojResolveAssemblyReference.cache
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\Proyecto_2_10\DATOS\obj\Debug\DATOS.dll
+C:\Users\Horacio Bono\OneDrive\Alumnos\Mauricio Molina\Proyecto cine\Proyecto_2_10\DATOS\obj\Debug\DATOS.pdb
+C:\Users\mmoli\Desktop\Proyecto prog3\DATOS\bin\Debug\DATOS.dll
+C:\Users\mmoli\Desktop\Proyecto prog3\DATOS\bin\Debug\DATOS.pdb
+C:\Users\mmoli\Desktop\Proyecto prog3\DATOS\bin\Debug\ENTIDAD.dll
+C:\Users\mmoli\Desktop\Proyecto prog3\DATOS\bin\Debug\ENTIDAD.pdb
+C:\Users\mmoli\Desktop\Proyecto prog3\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\mmoli\Desktop\Proyecto prog3\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\mmoli\Desktop\Proyecto prog3\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\mmoli\Desktop\Proyecto prog3\DATOS\obj\Debug\DATOS.dll
+C:\Users\mmoli\Desktop\Proyecto prog3\DATOS\obj\Debug\DATOS.pdb
+C:\Users\mmoli\Documents\Proyecto Prog 3\Proyecto 3_10\DATOS\bin\Debug\DATOS.dll
+C:\Users\mmoli\Documents\Proyecto Prog 3\Proyecto 3_10\DATOS\bin\Debug\DATOS.pdb
+C:\Users\mmoli\Documents\Proyecto Prog 3\Proyecto 3_10\DATOS\bin\Debug\ENTIDAD.dll
+C:\Users\mmoli\Documents\Proyecto Prog 3\Proyecto 3_10\DATOS\bin\Debug\ENTIDAD.pdb
+C:\Users\mmoli\Documents\Proyecto Prog 3\Proyecto 3_10\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\mmoli\Documents\Proyecto Prog 3\Proyecto 3_10\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\mmoli\Documents\Proyecto Prog 3\Proyecto 3_10\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\mmoli\Documents\Proyecto Prog 3\Proyecto 3_10\DATOS\obj\Debug\DATOS.dll
+C:\Users\mmoli\Documents\Proyecto Prog 3\Proyecto 3_10\DATOS\obj\Debug\DATOS.pdb
+C:\Users\mmoli\Desktop\8_10\DATOS\bin\Debug\DATOS.dll
+C:\Users\mmoli\Desktop\8_10\DATOS\bin\Debug\DATOS.pdb
+C:\Users\mmoli\Desktop\8_10\DATOS\bin\Debug\ENTIDAD.dll
+C:\Users\mmoli\Desktop\8_10\DATOS\bin\Debug\ENTIDAD.pdb
+C:\Users\mmoli\Desktop\8_10\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\mmoli\Desktop\8_10\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\mmoli\Desktop\8_10\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\mmoli\Desktop\8_10\DATOS\obj\Debug\DATOS.dll
+C:\Users\mmoli\Desktop\8_10\DATOS\obj\Debug\DATOS.pdb
+C:\Users\mmoli\Documents\Proyecto Prog 3\Proyecto_CineUTN\DATOS\bin\Debug\DATOS.dll
+C:\Users\mmoli\Documents\Proyecto Prog 3\Proyecto_CineUTN\DATOS\bin\Debug\DATOS.pdb
+C:\Users\mmoli\Documents\Proyecto Prog 3\Proyecto_CineUTN\DATOS\bin\Debug\ENTIDAD.dll
+C:\Users\mmoli\Documents\Proyecto Prog 3\Proyecto_CineUTN\DATOS\bin\Debug\ENTIDAD.pdb
+C:\Users\mmoli\Documents\Proyecto Prog 3\Proyecto_CineUTN\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\mmoli\Documents\Proyecto Prog 3\Proyecto_CineUTN\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\mmoli\Documents\Proyecto Prog 3\Proyecto_CineUTN\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\mmoli\Documents\Proyecto Prog 3\Proyecto_CineUTN\DATOS\obj\Debug\DATOS.dll
+C:\Users\mmoli\Documents\Proyecto Prog 3\Proyecto_CineUTN\DATOS\obj\Debug\DATOS.pdb

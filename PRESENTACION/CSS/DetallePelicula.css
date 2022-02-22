@@ -1,0 +1,64 @@
+﻿body {
+    background-color: white;
+    background-image: url("../ImagenesFondos/FondoDetallePelicula.jpg");
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center center;
+}
+
+.logoCine {
+    Height: 150px;
+    Width: 160px;
+}
+
+.usuarioConectado {
+    Height: 150px;
+    Width: 160px;
+    margin-left: 1150px;
+    margin-top: -130px;
+}
+
+.btnReservas {
+    height: 100px;
+    margin-left: 1050px;
+    margin-top: -100px;
+}
+
+.Comprar {
+    height: 100px;
+    width: 575px;
+    background-color: #01145B;
+    margin-left: 400px;
+    margin-top: -140px;
+    padding-left: 50px;
+    padding-top: 10px;
+    border-radius: 35px;
+    border-style: ridge;
+    border-color: white;
+}
+.Alerta{
+    width:600px;
+    height:90px;
+    margin-left:410px;
+    margin-top:-90px;
+}
+
+.FichaPelicula {
+    height: 590px;
+    width: 580px;
+    background-color: #01145B;
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-left: 400px;
+    margin-bottom: 10px;
+    margin-top: 30px;
+    border-radius: 30px;
+    border-style: ridge;
+    border-color: white;
+}
+
+#btnUsuario {
+    Height: 50px;
+}

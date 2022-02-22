@@ -1,0 +1,28 @@
+﻿body {
+    background-color: white;
+    background-image: url(../ImagenesFondos/FondoPrincipal.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center center;
+}
+
+.logoCine {
+    Height: 150px;
+    Width: 160px;
+}
+
+.usuarioConectado {
+    Height: 150px;
+    Width: 160px;
+    margin-left: 1150px;
+    margin-top: -130px;
+}
+
+.Peliculas {
+    margin-left: 450px;
+    margin-top: -140px;
+}
+
+#btnUsuario {
+    Height: 50px;
+}

@@ -1,0 +1,30 @@
+﻿body {
+    background-image: url(../ImagenesFondos/FondoLogin.jpg);
+    display: block;
+    background-size: cover;
+}
+
+.logoCine {
+    Height: 150px;
+    Width: 160px;
+}
+
+.FormularioLogin {
+    background-color: white;
+    height: 400px;
+    width: 330px;
+    margin-left: 580px;
+    margin-top:-70px;
+    padding-top: 10px;
+    padding-left: 20px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 35px;
+}
+
+.Alerta{
+    margin-left:600px;
+    margin-top:-100px;
+    width:400px;
+    height:100px;
+}

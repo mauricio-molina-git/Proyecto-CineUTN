@@ -1,0 +1,9 @@
+C:\Users\Flia Molina\Documents\Mauricio TSP\Proyecto\LISTO PARA MODIFICAR LISTVIEW\Tp_ProgIII\CineUTN\DAO\bin\Debug\DAO.dll
+C:\Users\Flia Molina\Documents\Mauricio TSP\Proyecto\LISTO PARA MODIFICAR LISTVIEW\Tp_ProgIII\CineUTN\DAO\bin\Debug\DAO.pdb
+C:\Users\Flia Molina\Documents\Mauricio TSP\Proyecto\LISTO PARA MODIFICAR LISTVIEW\Tp_ProgIII\CineUTN\DAO\bin\Debug\ENTIDAD.dll
+C:\Users\Flia Molina\Documents\Mauricio TSP\Proyecto\LISTO PARA MODIFICAR LISTVIEW\Tp_ProgIII\CineUTN\DAO\bin\Debug\ENTIDAD.pdb
+C:\Users\Flia Molina\Documents\Mauricio TSP\Proyecto\LISTO PARA MODIFICAR LISTVIEW\Tp_ProgIII\CineUTN\DAO\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Flia Molina\Documents\Mauricio TSP\Proyecto\LISTO PARA MODIFICAR LISTVIEW\Tp_ProgIII\CineUTN\DAO\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Flia Molina\Documents\Mauricio TSP\Proyecto\LISTO PARA MODIFICAR LISTVIEW\Tp_ProgIII\CineUTN\DAO\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Flia Molina\Documents\Mauricio TSP\Proyecto\LISTO PARA MODIFICAR LISTVIEW\Tp_ProgIII\CineUTN\DAO\obj\Debug\DAO.dll
+C:\Users\Flia Molina\Documents\Mauricio TSP\Proyecto\LISTO PARA MODIFICAR LISTVIEW\Tp_ProgIII\CineUTN\DAO\obj\Debug\DAO.pdb

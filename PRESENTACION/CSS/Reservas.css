@@ -1,0 +1,29 @@
+﻿body {
+    background-image: url(../ImagenesFondos/FondoRegistrar.jpg);
+    display: block;
+    background-size: cover;
+}
+
+.logoCine {
+    Height: 150px;
+    Width: 160px;
+}
+
+.Titulo {
+    width:300px;
+    margin-left: 550px;
+    margin-top: -100px;
+}
+
+.usuarioConectado {
+    Height: 150px;
+    Width: 160px;
+    margin-left: 1150px;
+    margin-top: -130px;
+}
+
+.Compras{
+    margin-left:360px;
+    height:400px;
+    width:580px;
+}

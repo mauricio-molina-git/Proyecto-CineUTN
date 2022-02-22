@@ -1,0 +1,91 @@
+﻿body {
+    background-image: url("../ImagenesFondos/FondoReportes.png");
+}
+
+.Usuario {
+    margin-left: 1150px;
+    margin-top: 15px;
+}
+
+.Titulo {
+    width: 450px;
+    margin-left: 590px;
+    margin-top: -60px;
+    padding-bottom: 10px;
+}
+
+.Home {
+    height: 90px;
+    width: 80px;
+    margin-top: -75px;
+    margin-left: 100px;
+}
+
+.Ingreso {
+    background-color: #FAF0A5;
+    height: 620px;
+    width: 410px;
+    margin-top: -650px;
+    margin-left: 540px;
+    padding-top: 15px;
+    padding-left: 15px;
+    border-radius: 30px;
+    border-style: double;
+    border-color: black;
+}
+
+.Calendario {
+    height: 240px;
+    width: 260px;
+    margin-top: -430px;
+    margin-left: 960px;
+}
+
+.Alerta {
+    height: 70px;
+    width: 300px;
+    margin-left: 610px;
+    padding-top: 15px;
+    margin-top: 125px;
+}
+
+.menu ul {
+    list-style: none;
+    margin: 0;
+}
+
+    .menu ul li {
+        top: -35px;
+        padding: 15px;
+        position: relative;
+        width: 180px;
+        vertical-align: middle;
+        background-color: #34495E;
+        border: 2px solid #BDC3C7;
+        border-left: 8px solid #BC0D28;
+    }
+
+    .menu ul ul {
+        top: 100px;
+        transition: all 0.3s;
+        opacity: 0;
+        position: relative;
+        visibility: hidden;
+        left: 80%;
+        top: -2px;
+        boder-left: 1px solid #BDC3C7;
+    }
+
+    .menu ul li:hover > ul {
+        opacity: 1;
+        visibility: visible;
+    }
+
+.menu > ul > li {
+    border-right: 5px solid #BC0D28;
+}
+
+.menu ul li a {
+    color: #fff;
+    text-decoration: none;
+}

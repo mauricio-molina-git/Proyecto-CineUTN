@@ -1,0 +1,26 @@
+﻿body {
+}
+
+.credit-card-div span {
+    padding-top: 10px;
+}
+
+.Alerta {
+    margin-left: 697px;
+    margin-top: 13px;
+    width: 400px;
+}
+
+.credit-card-div img {
+    padding-top: 30px;
+    margin-top: -20px;
+    margin-left: 15px;
+}
+
+.credit-card-div .small-font {
+    font-size: 9px;
+}
+
+.credit-card-div .pad-adjust {
+    padding-top: 10px;
+}
